@@ -22,3 +22,8 @@
 - 注意代码规范，尽量在提交之前使用 `beautify` 插件格式化代码
 - 建议在文件首部添加注释：IFE task 地址、author、reviewer 等字段
 - 建议 commit message 填写有意义的信息
+
+### 其他
+- 关注 IFE 的微信公众号以便接受最新消息：
+
+![](https://raw.githubusercontent.com/v2fe/ife-tasks/gh-pages/img/qrcode.bmp)
