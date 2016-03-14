@@ -8,6 +8,7 @@
 - 已经删除 `master` 分支，默认分支是 `gh-pages`，**后面说的`主分支`都默认指 `gh-pages` 分支**
 - 可以直接通过 http://v2fe.github.io/ife-tasks/ 后面加上相应路径直接查看代码对应的在线效果
 - 在 IFE 上提交任务的时候记得填 demo 地址
+- 提交任务时如果文件路径过长建议使用 https://git.io/ 提交短 URL
 
 ### 关于文件结构
 
@@ -22,7 +23,6 @@
 - 注意代码规范，尽量在提交之前使用 `beautify` 插件格式化代码
 - 建议在文件首部添加注释：IFE task 地址、author、reviewer 等字段，具体参考：https://git.io/val8g
 - 建议 commit message 填写有意义的信息
-- 任务提交到 IFE 时如果文件路径过长建议使用 https://git.io/ 提交短 URL
 
 ### 其他
 - 关注 IFE 的微信公众号以便接受最新消息：
