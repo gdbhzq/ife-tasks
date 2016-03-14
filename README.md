@@ -22,7 +22,7 @@
 - 注意代码规范，尽量在提交之前使用 `beautify` 插件格式化代码
 - 建议在文件首部添加注释：IFE task 地址、author、reviewer 等字段，具体参考：https://git.io/val8g
 - 建议 commit message 填写有意义的信息
-- 任务提交到 IFE 时建议使用 https://git.io/ 提交短 URL
+- 任务提交到 IFE 时如果文件路径过长建议使用 https://git.io/ 提交短 URL
 
 ### 其他
 - 关注 IFE 的微信公众号以便接受最新消息：
