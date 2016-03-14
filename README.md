@@ -21,3 +21,4 @@
 - 提交了 pr 之后不要急着 merge，把 pr 地址发到群里 @ 所有人来 review，如果另外一个人以上都没什么意见了就可以 merge 并提交到 IFE 了
 - 注意代码规范，尽量在提交之前使用 `beautify` 插件格式化代码
 - 建议在文件首部添加注释：IFE task 地址、author、reviewer 等字段
+- 建议 commit message 填写有意义的信息
