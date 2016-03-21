@@ -21,10 +21,18 @@
   <div>您输入的值是：<span id="aqi-display">尚无录入</span></div>
 
 <script>
-  document.getElementById("button").onclick = function(){
-    var dis = document.getElementById("aqi-display");
-    dis.innerHTML = document.getElementById("aqi-input").value;
-}
+  var button = document.getElementById("button");
+  var dis = document.getElementById("aqi-display");
+  var input = document.getElementById("aqi-input");
+  function updateDisplay() {
+    dis.innerText = parseFloat(input.value);
+  }
+  button.onclick = updateDisplay;
+  input.onkeyup = function(evt) {
+    if (evt.keyCode == 13) {
+      updateDisplay();
+    }
+  }
 </script>
 </body>
 </html>
