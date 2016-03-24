@@ -1,6 +1,9 @@
 # ife-tasks
 百度前端技术学院任务
 
+- 任务列表：http://ife.baidu.com/task/all
+- 已完成任务：http://v2fe.github.io/ife-tasks/
+
 ###
 
 ### 关于此 repo
